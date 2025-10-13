@@ -56,7 +56,7 @@
   crossorigin="anonymous">
 <!-- size :فقط برای آیکن‌هاست؛ می‌گه اندازه آیکن چقدره
 صفت sizes معمولاً وقتی استفاده میشه که rel="icon" باشه -->
-title:
+<!-- title: -->
  <!-- استایل پیش‌فرض -->
 <link rel="stylesheet" href="default.css" title="روشن">
 
