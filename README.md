@@ -69,7 +69,7 @@ margin collapse:
 <input type="text" placeholder="Enter password">
 تگ  برای گرفتن ورودی از کاربره؛ مثل متن، رمز، عدد یا ایمیل. نوعش با تایپ مشخص می‌شه و معمولاً داخل فرم‌ها استفاده می‌شه . شکل یک کادر 
 ```
-```html 
-برای لیتک:
+```html
+
  <a href="text.html"> example text </a>
 ```
