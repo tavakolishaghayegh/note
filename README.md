@@ -74,8 +74,8 @@ margin collapse:
  <a href="text.html"> example text </a>
 ```
 ```css
- <---Use margin-bottom in CSS to create space between messages. 
-   This adds distance between the current message and the next one. ---!>
+ <--Use margin-bottom in CSS to create space between messages. 
+   This adds distance between the current message and the next one.--!>
  {margin-bottom: px;}
 
 ```
