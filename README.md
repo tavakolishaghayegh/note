@@ -78,4 +78,7 @@ margin collapse:
   This adds distance between the current message and the next one*/
  {margin-bottom: px;}
 
+
+/* If the top and bottom padding have a certain value, 
+   the left and right padding should be twice that value. */
 ```
