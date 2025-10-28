@@ -75,6 +75,7 @@ margin collapse:
 ```
 ```css
  <---Use margin-bottom in CSS to create space between messages. 
-   This adds distance between the current message and the next one. 
- {margin-bottom: px;} ---!>
+   This adds distance between the current message and the next one. ---!>
+ {margin-bottom: px;}
+
 ```
